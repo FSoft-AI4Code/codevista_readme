@@ -1,6 +1,6 @@
 <div align="center">
 
-# CodeVista: AI Coding Assistant
+# CodeVista
 ### Interactive AI-Powered Coding Assistant by FPT Software AI Center
 
 ---
@@ -65,9 +65,11 @@ There are two versions of CodeVista on VS Code extension marketplace:
 
 ![](./media/installation/login.png)
 
-##### Visit our ![website](https://codevista.ai/docs/1.3.0/installation) to find out Installation Guide for Visual Studio/JetBrains.
+##### Visit our [website](https://codevista.ai/docs/1.3.0/installation) to find out Installation Guide for Visual Studio/JetBrains.
 
 ---
+
+## What can CodeVista do?
 
 ### Autocompletion
 The Autocompletion feature in CodeVista leverages the latest language models to provide accurate and intelligent code completion suggestions as you type. It can significantly improve your coding efficiency and productivity.
@@ -130,6 +132,7 @@ CodeVista provides a feedback system that allows users to submit feedback about 
 - Blog: https://codevista.ai/blog
 - Support: codevista-support@fpt.com
 - Contact: codevista-contact@fpt.com
+- FAQ: https://codevista.ai/docs/1.3.0/FQA
 
 ## Terms of use
 
