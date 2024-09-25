@@ -7,8 +7,6 @@
 
 CodeVista, developed by the AI Center at FPT Software, enhances coding efficiency through an AI-driven, interactive prompting interface. Ideal for developers seeking streamlined coding assistance.
 
-CodeVista is 100% free to use for FPT Software users.
-
 ---
 
 </div>
