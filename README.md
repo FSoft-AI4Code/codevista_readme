@@ -6,6 +6,7 @@
 ---
 
 CodeVista is an advanced AI-powered coding assistant designed to complement your development workflow. Acting as your AI navigator in a pair-programming scenario, where you take the lead as the driver, CodeVista significantly boosts coding efficiency and productivity. With its interactive prompting interface, CodeVista offers a wide range of features to support various development tasks, including code generation, bug fixing, documentation generation, and more.
+
 ---
 
 </div>
