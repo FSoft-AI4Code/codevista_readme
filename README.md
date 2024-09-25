@@ -1,12 +1,11 @@
 <div align="center">
 
 # CodeVista
-### Interactive AI-Powered Coding Assistant by FPT Software AI Center
+### Your Interactive AI-Powered Coding Assistant for the Entire Software Development Lifecycle
 
 ---
 
-CodeVista, developed by the AI Center at FPT Software, enhances coding efficiency through an AI-driven, interactive prompting interface. Ideal for developers seeking streamlined coding assistance.
-
+CodeVista is an advanced AI-powered coding assistant designed to complement your development workflow. Acting as your AI navigator in a pair-programming scenario, where you take the lead as the driver, CodeVista significantly boosts coding efficiency and productivity. With its interactive prompting interface, CodeVista offers a wide range of features to support various development tasks, including code generation, bug fixing, documentation generation, and more.
 ---
 
 </div>
